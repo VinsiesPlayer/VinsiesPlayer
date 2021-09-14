@@ -1,1 +1,0 @@
-I am VinsPlayer, a finnish person learning python. I am looking forward to making games, as well as programs. Here on github I will be sharing the programs, but the games will be propably found better on steam.
